@@ -9,3 +9,6 @@
     vi deployment/settings.py 
     change LANGUAGE_CODE = 'en_US' => LANGUAGE_CODE = 'cn'
 * restart server
+
+=== translate progress ====
+* 80%
